@@ -1,0 +1,1 @@
+(mod (truths res) res)
